@@ -1,2 +1,2 @@
 # synchronyUseCase
-intial commit
+initial commit 
